@@ -11,5 +11,9 @@ public class UE {
         return myIntitule;
     }
 
+    public String getMyIntitule() {
+        return myIntitule;
+    }
+
     
 }
