@@ -60,7 +60,7 @@ public class ChampollionJUnitTest {
             untel.ajouteIntervention(e3);
             
             //On doit obtenir 6h en tout
-            assertEquals(6, untel.heuresPlanifiées(), "L'enseignant doit réaliser 2h");
+            assertEquals(6, untel.heuresPlanifiées(), "L'enseignant doit réaliser 6h");
         }
         
         @Test 
